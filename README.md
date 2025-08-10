@@ -1,6 +1,6 @@
 # Friends List App 
 
-Hello my name is Ahmed Waqas and I work at Tieroneme.com
+Hello my name is Ahmed Abid
 
 This is my First Test Ruby on Rails Friends List App!
 
